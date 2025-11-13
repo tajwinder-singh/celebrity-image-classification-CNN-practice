@@ -53,8 +53,13 @@ Model training for full epochs was skipped to save time — the goal was to focu
 
 ---
 
+
+
+
 ## Tech Stack  
 - Python  
 - TensorFlow / Keras  
 - NumPy, Pandas, Matplotlib  
 - OpenCV  
+
+https://github.com/user-attachments/assets/5db9bcd9-db46-4c6d-a0ac-c3c81c6868e3
