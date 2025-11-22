@@ -1,5 +1,8 @@
 # Celebrity Image Classification using CNN
 
+https://github.com/user-attachments/assets/5db9bcd9-db46-4c6d-a0ac-c3c81c6868e3
+
+
 ## Overview  
 This project focuses on classifying **celebrity images** using a **Convolutional Neural Network (CNN)**.  
 It demonstrates the complete deep learning workflow — from data cleaning and preprocessing to model building and hyperparameter tuning.
@@ -62,4 +65,3 @@ Model training for full epochs was skipped to save time — the goal was to focu
 - NumPy, Pandas, Matplotlib  
 - OpenCV  
 
-https://github.com/user-attachments/assets/5db9bcd9-db46-4c6d-a0ac-c3c81c6868e3
